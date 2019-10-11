@@ -1,0 +1,6 @@
+
+JavaScript Clean Code  Best Practices:
+https://devinduct.com/blogpost/22/javascript-clean-code-best-practices
+
+Film om felsökning i Chrome:
+https://youtu.be/KbEx0s06VLs
