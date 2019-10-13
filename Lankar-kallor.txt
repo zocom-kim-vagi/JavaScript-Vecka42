@@ -4,3 +4,13 @@ https://devinduct.com/blogpost/22/javascript-clean-code-best-practices
 
 Film om felsökning i Chrome:
 https://youtu.be/KbEx0s06VLs
+
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong
+
+https://www.w3schools.com/js/js_functions.asp
+
+https://dmitripavlutin.com/6-ways-to-declare-javascript-functions/ (Bara kapitel 1)
+
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash
+
+https://www.w3schools.com/js/js_random.asp

@@ -11,6 +11,7 @@ const sum = () => {
     let firstNumber = parseInt(getFirstNumber());
     let secondNumber = parseInt(getSecondNumbe());
     let sum = firstNumber + secondNumber;
+    // console.log(typeof(sum));
     return sum;
 };
 
