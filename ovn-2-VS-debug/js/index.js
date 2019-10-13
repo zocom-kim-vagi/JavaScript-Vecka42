@@ -8,8 +8,8 @@ const getSecondNumber = () => {
 };
 
 const sum = () => {
-    let firstNumber = getFirstNumber();
-    let secondNumber = getSecondNumbe();
+    let firstNumber = parseInt(getFirstNumber());
+    let secondNumber = parseInt(getSecondNumbe());
     let sum = firstNumber + secondNumber;
     return sum;
 };
