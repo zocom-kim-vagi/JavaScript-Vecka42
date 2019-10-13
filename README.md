@@ -14,7 +14,7 @@ Börja med att klona/ladda ner hela denna repository'n
 <ul>
   <b>Tisdag:</b>
   <li>Scope “this”</li>
-  <li>Callback </li>
+  <li>Callback (Exempel hur den kan användas)</li>
 </ul>
 <ul>  
   <b>Onsdag</b>
