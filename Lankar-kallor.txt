@@ -2,7 +2,7 @@
 JavaScript Clean Code  Best Practices:
 https://devinduct.com/blogpost/22/javascript-clean-code-best-practices
 
-Film om felsökning i Chrome:
+Film om felsÃ¶kning i Chrome:
 https://youtu.be/KbEx0s06VLs
 
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong
@@ -14,3 +14,8 @@ https://dmitripavlutin.com/6-ways-to-declare-javascript-functions/ (Bara kapitel
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash
 
 https://www.w3schools.com/js/js_random.asp
+
+Film (Higher-Order Functions)
+https://youtu.be/25VUf6pUwEU
+
+
