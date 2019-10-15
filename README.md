@@ -18,5 +18,6 @@ Börja med att klona/ladda ner hela denna repository'n
 </ul>
 <ul>  
   <b>Onsdag</b>
-  <li>Higher order functions</li>
+  <li>Higher order functions (film)</li>
+  <li>Gör uppgifter </li>
 </ul>
