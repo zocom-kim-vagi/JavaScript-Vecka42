@@ -9,9 +9,9 @@ const getSecondNumber = () => {
 
 const sum = () => {
     let firstNumber = parseInt(getFirstNumber());
-    let secondNumber = parseInt(getSecondNumbe());
+    let secondNumber = getSecondNumber();
     let sum = firstNumber + secondNumber;
-    // console.log(typeof(sum));
+     console.log(typeof(firstNumber));
     return sum;
 };
 
