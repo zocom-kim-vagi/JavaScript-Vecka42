@@ -2,7 +2,7 @@
 JavaScript Clean Code  Best Practices:
 https://devinduct.com/blogpost/22/javascript-clean-code-best-practices
 
-Film om felsökning i Chrome:
+Film om felsÃ¶kning i Chrome:
 https://youtu.be/KbEx0s06VLs
 
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong
@@ -19,5 +19,8 @@ Film (Higher-Order Functions)
 https://youtu.be/25VUf6pUwEU
 
 
+<<<<<<< HEAD
 Om Arrays
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+=======
+>>>>>>> 7350b352178870d9f33da2ec50781e11d849ed23
