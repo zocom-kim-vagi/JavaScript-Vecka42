@@ -19,5 +19,5 @@ Börja med att klona/ladda ner hela denna repository'n
 <ul>  
   <b>Onsdag</b>
   <li>Higher order functions (film)</li>
-  <li>Gör uppgifter </li>
+  <li>Börja med uppgifterna som finns i filen "uppgift-torsdag-mandag.txt"</li>
 </ul>
