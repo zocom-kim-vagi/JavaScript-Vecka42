@@ -11,6 +11,9 @@ Viktigt att ni inte bara kopierar kod.
 Övrigt: Läs på om Array och Objekt
 
 och titta på filmen om Callback functions: https://youtu.be/pTbSfCT42_M
+
+Kolla även in Arrow "=>" i JS (googla eller gå till w3Schools.com)
+
 och läs artikeln 
 https://medium.com/@olinations/first-class-functions-higher-order-functions-callback-functions-4daad4856242
 
