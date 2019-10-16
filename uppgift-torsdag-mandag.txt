@@ -1,0 +1,21 @@
+
+
+
+Gör en häftig meny;  Ni kan om ni vill kopiera eran projekt2 webbsida och lägga till en meny eller gör en helt fristående meny.
+
+Ni kan få inspiration och kolla koder på denna sida.
+https://www.cssscript.com/tag/dropdown-menu/
+
+Viktigt att ni inte bara kopierar kod.
+
+Övrigt: Läs på om Array och Objekt
+
+och titta på filmen om Callback functions: https://youtu.be/pTbSfCT42_M
+och läs artikeln 
+https://medium.com/@olinations/first-class-functions-higher-order-functions-callback-functions-4daad4856242
+
+ + Gör en egen "Callback function" 
+
+
+
+
